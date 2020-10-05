@@ -1,4 +1,4 @@
-# Wikipedia Extractive Summarizer + Keywords Identification (entropy-based)
+# Wikipedia Extractive Text Summarizer + Keywords Identification (entropy-based)
 Uses Beautiful Soup to read Wiki pages, Gensim to summarize, NLTK to process, and extracts keywords based on entropy: **everything in one beautiful code**. I was looking for similar codes throughout Github but most of them were very difficult to understand and use. I'm building this repo to provide simple, yet effective solution in extractive summarization and keyword identification.
 
 **Program works best for 300+ words summary.**
